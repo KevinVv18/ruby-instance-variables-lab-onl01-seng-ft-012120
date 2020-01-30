@@ -6,3 +6,4 @@ class Dog
     dog_name
   end
 end
+lassie= Dog.new
